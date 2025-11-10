@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hey, I'm Kevin! 👋<br>A Full Stack Developer based in Ireland, building impactful software with modern technologies. I work primarily with the MERN stack (MongoDB, Express, React, Node.js) and have experience integrating AI solutions, blockchain payments, and RESTful APIs into real-world applications.<br>I love collaborating with other developers and tackling new challenges — some of my best work has come from hackathons and working with the dev community. Currently exploring opportunities to relocate and contribute to innovative teams worldwide.<br><br>What I'm working with:<br><br>Frontend: React, TypeScript, Tailwind<br>Backend: Node.js, Express, Django<br>Databases: MongoDB, PostgreSQL<br><br>When I'm not coding, I'm training Muay Thai or exploring the outdoors. Feel free to check out my projects below or connect with me on LinkedIn!
 
+🌐 **[Check out my portfolio!](https://gallie83.github.io/Portfolio/)** 
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gallie_83) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kevin-gallagher-81a294236/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:KevinG2913@hotmail.com) 
