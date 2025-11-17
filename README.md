@@ -1,7 +1,7 @@
 # 💫 Hey, I'm Kevin! 👋
 A Full Stack Developer based in Ireland, building impactful software with modern technologies. I work primarily with the MERN stack (MongoDB, Express, React, Node.js) and have experience integrating AI solutions, blockchain payments, and RESTful APIs into real-world applications.
 
-I love collaborating with other developers and tackling new challenges — some of my best work has come from hackathons and working with the dev community. Currently exploring opportunities to relocate and contribute to innovative teams worldwide.
+I love collaborating with other developers and tackling new challenges, some of my best work has come from hackathons and working with the dev community. Currently exploring opportunities to relocate and contribute to innovative teams worldwide.
 
 🌐 **[Check out my portfolio!](https://gallie83.github.io/Portfolio/)** 
 
